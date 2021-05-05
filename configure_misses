@@ -1,3 +1,3 @@
-Configure miss: library containing libiconv_open
 Configure miss: CORETEXT
 Configure miss: DIRECTWRITE
+Configure miss: library containing libiconv_open
