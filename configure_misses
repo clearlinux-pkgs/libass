@@ -1,3 +1,4 @@
 Configure miss: CORETEXT
 Configure miss: DIRECTWRITE
 Configure miss: library containing libiconv_open
+Configure miss: x86_64-generic-linux-gnu-file
