@@ -1,3 +1,4 @@
-0.17.1
-file
-nasm-bin
+0.17.3
+pkgconfig(freetype2)
+pkgconfig(fribidi)
+pkgconfig(libunibreak)
